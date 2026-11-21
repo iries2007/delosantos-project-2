@@ -175,3 +175,13 @@ a:focus-visible, button:focus-visible, [role="button"]:focus-visible {
   .hero-actions a { justify-content: space-between; }
   .scroll-cue { right: 20px; bottom: 18px; }
 }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

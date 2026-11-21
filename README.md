@@ -22,7 +22,7 @@ Then visit `http://localhost:8000`.
 - `assets/img/` — template image assets
 
 ## Git status
-The project has a local Git repository on branch `main` with 10 commits. Run `git log --oneline` to review the history.
+The project has a local Git repository on branch `main` with 11 commits. Run `git log --oneline` to review the history.
 
 ## GitHub Pages
 1. Create a public GitHub repository named `delosantos-project-2`.

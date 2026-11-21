@@ -1,6 +1,6 @@
 # Git commit history
 
-This local project repository has been initialized on the `main` branch and currently contains 10 commits documenting the template setup and KCC customization.
+This local project repository has been initialized on the `main` branch and currently contains 11 commits documenting the template setup and KCC customization.
 
 To inspect them, run:
 ```bash

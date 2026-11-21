@@ -2244,3 +2244,6 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+/* Kabankalan Catholic College branding */
+.header .logo .kcc-header-logo { width: 48px; height: 48px; max-height: 48px; object-fit: contain; margin-right: 10px; }
+.header .logo .sitename { font-size: 18px; line-height: 1.15; color: #102b46; }
